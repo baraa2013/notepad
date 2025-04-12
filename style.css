@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(105, 138, 132);
+}
+
+#title{
+    text-align: center;
+}
+
+#تعريف{
+    text-align: center;
+}
+
+#AppPh{
+    display: block;
+    margin: auto;
+}
+
+#download_button{
+    display: block;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
